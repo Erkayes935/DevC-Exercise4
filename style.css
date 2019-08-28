@@ -1,0 +1,56 @@
+.baris1 {
+	margin-bottom: 20px;
+}
+.footer {
+	background:red;
+	width:100%;
+	color:white;
+    padding:1px 1px;
+    position: static;
+}
+p {
+	font-family: 'Lacquer', sans-serif;
+	font-size:12px;
+	text-align:center;
+}
+h1,h2,h3,h5,h6 {
+	font-family: 'Titillium Web', sans-serif;
+	font-size:50px;
+	background:blue;
+	width:100%;
+	color:black;
+	padding:2px 3px;
+	text-align:center
+}
+img {
+	margin-bottom:20px;
+	background:lightgrey;
+	width:1000px;
+	color:green;
+	padding:2px 3px;
+	width: 350px;
+	height: 350px;
+	border-radius: 100%;
+}
+a {
+	background:darkblue;
+	color: orange;
+}
+table {
+	background:lightgrey;
+	width:1000px;
+	color:green;
+	padding:2px 3px;
+	margin-bottom:20px;
+	width:600px;
+	float: center;
+}
+tr {
+	text-align:left;
+	background-color:yellow;
+	font-weight:bold;
+}
+td {
+	font-family: 'Lacquer', sans-serif;
+    border: 1px solid red;
+}
