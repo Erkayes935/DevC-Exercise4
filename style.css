@@ -22,15 +22,13 @@ h1,h2,h3,h5,h6 {
 	padding:2px 3px;
 	text-align:center
 }
-img {
-	margin-bottom:20px;
+.carousel-inner img {
 	background:lightgrey;
 	width:1000px;
 	color:green;
 	padding:2px 3px;
-	width: 350px;
-	height: 350px;
-	border-radius: 100%;
+	border-radius: 25px;
+	overflow: hidden;
 }
 a {
 	background:darkblue;
@@ -53,4 +51,11 @@ tr {
 td {
 	font-family: 'Lacquer', sans-serif;
     border: 1px solid red;
+}
+.form-group label {
+	font-family: 'Livvic', sans-serif;
+	font-weight: bold;
+}
+.form-control {
+	font-family: 'Indie Flower', cursive;
 }
